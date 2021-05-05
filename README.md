@@ -17,20 +17,20 @@ We have used Keras, a deep learning framework built on top of TensorFlow 2.0, fo
 Here are some screenshots of the Bird Identification App mobile application:
 
 ### 1. Login Page
-<img align="left" src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/login.PNG" height="550px" width="300px">
+<img src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/login.PNG" height="550px" width="300px">
 
 <br/>
 
 ### 2. SignUp Page
 
-<img align="left" src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/signup.PNG" height="550px" width="300px">
+<img src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/signup.PNG" height="550px" width="300px">
 
 
 <br/>
 
 ### 3. Profile
 
-<img align="left" src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/Profile1.PNG" height="550px" width="300px">
+<img src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/Profile1.PNG" height="550px" width="300px">
 <img src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/profile2.PNG" height="550px" width="300px">
 
 <br/>
@@ -38,7 +38,7 @@ Here are some screenshots of the Bird Identification App mobile application:
 ### 4. Details
 
 
-<img align="left" src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/MoreInfo.PNG" height="550px" width="300px">
+<img src="https://github.com/saukr1006/Bird-Identification-App/blob/master/images/MoreInfo.PNG" height="550px" width="300px">
 
 <br/>
 
