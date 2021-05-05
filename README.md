@@ -2,6 +2,7 @@
 
 Bird Identification App is a react native(expo cli) application for identification of Indian birds species using convolutional neural networks. We have used convolutional neural networks (CNNs) to build and train a model which can classify the birds from their images. 
 We have used Keras, a deep learning framework built on top of TensorFlow 2.0, for building,training and testing our deep learning model.
+Frontend is built using react native and firebase.
 
 * You can find the traning code **[here](https://drive.google.com/file/d/1ds1OQ1P0pXGASGQY4oUv3b0wvyWxRbPj/view?usp=sharing)**. This contains the code for the initial model we built.
 
@@ -43,3 +44,18 @@ Here are some screenshots of the Bird Identification App mobile application:
 <br/>
 
 ## Steps to run
+
+### Frontend
+1. Open Frontend directory.
+2. Change the IP address in the /screens/Profile file to your own IP address as commented in the file itself.
+3. Type npm install.
+4. npm start to start the frontend server.
+5. Open the app in android emulator.
+
+### Backend
+1. Open Backend directory.
+2. Paste the model in the directory. **[Model link](https://drive.google.com/file/d/1ab-XmG6NZfxSDH212ndtU3zxOp_kHCqo/view?usp=sharing)**
+3. Add your IP to the allowed hosts in /birdi/settings.py as commented in the file itself.
+4. type python manage.py runserver your_IP:port (Eg. python manage.py runserver 192.168.1.1:80)
+
+
