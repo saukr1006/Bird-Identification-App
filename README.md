@@ -48,9 +48,10 @@ Here are some screenshots of the Bird Identification App mobile application:
 ### Frontend
 1. Open Frontend directory.
 2. Change the IP address in the /screens/Profile file to your own IP address as commented in the file itself.
-3. Type npm install.
-4. npm start to start the frontend server.
-5. Open the app in android emulator.
+3. Add your firebase configuration in /config/firebaseconfig file.
+4. Type npm install.
+5. npm start to start the frontend server.
+6. Open the app in android emulator.
 
 ### Backend
 1. Open Backend directory.
