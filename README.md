@@ -11,6 +11,7 @@ Frontend is built using react native and firebase for authentication.
 1.  <a href ="https://github.com/saukr1006">Saurabh Kumar</a> 
 2.  <a href ="https://github.com/sid-tiw">Siddhartha Tiwari</a>
 3.  <a href ="https://github.com/Devanshk2">Devansh Khandelwal</a>
+4.  <a href ="https://github.com/RishabhShukla1511">Rishabh Shukla</a>
 
 
 ### Mobile Application:
